@@ -1,0 +1,87 @@
+[
+  {
+    "id": "med_metformin",
+    "name": "Glycomet 500mg",
+    "generic_name": "Metformin Hydrochloride",
+    "brand_names": ["Glycomet", "Riomet", "Cetapin", "Gluformin"],
+    "therapeutic_class": "Oral Hypoglycemic (Biguanide)",
+    "plain_language_summary_en": "Helps lower blood glucose levels by improving insulin sensitivity and reducing sugar released by the liver.",
+    "plain_language_summary_ta": "உங்கள் உடல் இன்சுலினை முறையாகப் பயன்படுத்தவும், கல்லீரலில் உற்பத்தியாகும் அதிகப்படியான சர்க்கரையைக் குறைக்கவும் உதவுகிறது.",
+    "general_guidance_en": "Take with or right after food to minimize stomach upset. Do not skip meals.",
+    "general_guidance_ta": "வயிற்று உபாதைகளைத் தவிர்க்க உணவுடன் அல்லது உணவுக்குப் பின் உடனடியாக உட்கொள்ளவும்.",
+    "source_name": "Central Drugs Standard Control Organisation (CDSCO)",
+    "source_url": "https://cdsco.gov.in",
+    "is_verified": true
+  },
+  {
+    "id": "med_telmisartan",
+    "name": "Telma 40mg",
+    "generic_name": "Telmisartan",
+    "brand_names": ["Telma", "Telmikem", "Cresar", "Arbitel"],
+    "therapeutic_class": "Antihypertensive (ARB)",
+    "plain_language_summary_en": "Relaxes blood vessels to lower high blood pressure and decrease the strain on your heart and kidneys.",
+    "plain_language_summary_ta": "இரத்தக் குழாய்களைத் தளர்த்தி, இரத்த அழுத்தத்தைக் குறைத்து இதயத்தையும் சிறுநீரகத்தையும் பாதுகாக்கிறது.",
+    "general_guidance_en": "Take once daily at the same time each day, consistently with or without food.",
+    "general_guidance_ta": "தினமும் குறிப்பிட்ட ஒரே நேரத்தில் உட்கொள்ளவும். உணவுடனோ உணவு இன்றியோ உட்கொள்ளலாம்.",
+    "source_name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+    "source_url": "https://janaushadhi.gov.in",
+    "is_verified": true
+  },
+  {
+    "id": "med_augmentin",
+    "name": "Augmentin 625 Duo",
+    "generic_name": "Amoxicillin and Potassium Clavulanate",
+    "brand_names": ["Augmentin", "Moxikind-CV", "Clavam", "Advent"],
+    "therapeutic_class": "Antibiotic (Penicillin group)",
+    "plain_language_summary_en": "Treats bacterial infections of the respiratory tract, ears, throat, and skin. Always complete the entire prescribed course.",
+    "plain_language_summary_ta": "மார்பு, தொண்டை மற்றும் காதுகளில் ஏற்படும் பாக்டீரியா தொற்றுக்களைக் குணப்படுத்துகிறது. மருத்துவர் குறிப்பிட்ட முழு காலமும் உட்கொள்ளவும்.",
+    "general_guidance_en": "Take immediately before a meal to improve absorption and protect your stomach.",
+    "general_guidance_ta": "மருந்து நன்கு செயல்படவும் வயிற்று எரிச்சலைத் தவிர்க்கவும் உணவுக்கு முன்பாக உட்கொள்ளவும்.",
+    "source_name": "National List of Essential Medicines (NLEM India)",
+    "source_url": "https://cdsco.gov.in",
+    "is_verified": true
+  },
+  {
+    "id": "med_pantoprazole",
+    "name": "Pan 40mg",
+    "generic_name": "Pantoprazole Gastro-resistant",
+    "brand_names": ["Pan 40", "Pantocid", "Pantodac", "Topraz"],
+    "therapeutic_class": "Proton Pump Inhibitor (Antacid)",
+    "plain_language_summary_en": "Reduces excess stomach acid to relieve acid reflux, heartburn, and protect the stomach lining.",
+    "plain_language_summary_ta": "வயிற்றில் உருவாகும் அமிலத்தைக் குறைத்து, நெஞ்செரிச்சல் மற்றும் வயிற்றுப் புண்களைக் குணப்படுத்துகிறது.",
+    "general_guidance_en": "Take in the morning 30 to 60 minutes before breakfast with a glass of water.",
+    "general_guidance_ta": "காலையில் காலை உணவுக்கு 30-60 நிமிடங்களுக்கு முன் வெறும் வயிற்றில் தண்ணீருடன் உட்கொள்ளவும்.",
+    "source_name": "Central Drugs Standard Control Organisation (CDSCO)",
+    "source_url": "https://cdsco.gov.in",
+    "is_verified": true
+  },
+  {
+    "id": "med_atorvastatin",
+    "name": "Atorva 10mg",
+    "generic_name": "Atorvastatin Calcium",
+    "brand_names": ["Atorva", "Storvas", "Tonact", "Lipitor"],
+    "therapeutic_class": "Lipid-lowering agent (Statin)",
+    "plain_language_summary_en": "Reduces bad cholesterol (LDL) and triglycerides in the bloodstream, helping prevent cardiovascular events.",
+    "plain_language_summary_ta": "இரத்தத்தில் உள்ள கெட்ட கொழுப்பைக் குறைத்து, இதய ஆரோக்கியத்தைப் பாதுகாக்கிறது.",
+    "general_guidance_en": "Usually taken once daily at night, as cholesterol production in the liver is highest during sleep.",
+    "general_guidance_ta": "பொதுவாக இரவு உணவுக்குப் பின் உறங்கும் முன் தினமும் ஒரு வேளை உட்கொள்ளப்படுகிறது.",
+    "source_name": "Indian Pharmacopoeia Commission (IPC)",
+    "source_url": "https://ipc.gov.in",
+    "is_verified": true
+  },
+  {
+    "id": "med_dolo",
+    "name": "Dolo 650mg",
+    "generic_name": "Paracetamol (Acetaminophen)",
+    "brand_names": ["Dolo 650", "Calpol 650", "P-650", "Pacimol"],
+    "therapeutic_class": "Analgesic & Antipyretic",
+    "plain_language_summary_en": "Provides relief from fever, body aches, mild to moderate headaches, and muscle soreness.",
+    "plain_language_summary_ta": "காய்ச்சல், தலைவலி மற்றும் உடல் வலியைத் தணிக்க உதவும் மாத்திரை.",
+    "general_guidance_en": "Take after light food with water. Maintain at least 4 to 6 hours between doses. Do not exceed 4 tablets in 24 hours.",
+    "general_guidance_ta": "உணவுக்குப் பின் உட்கொள்ளவும். அடுத்த வேளைக்கு குறைந்தபட்சம் 4-6 மணிநேர இடைவெளி தேவை.",
+    "source_name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+    "source_url": "https://janaushadhi.gov.in",
+    "is_verified": true
+  }
+]
+
